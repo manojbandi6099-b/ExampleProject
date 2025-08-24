@@ -47,7 +47,6 @@ public class TerminalExamples {
                 }
                 else {
                     System.out.println(n);
-
                 }
             });
 
