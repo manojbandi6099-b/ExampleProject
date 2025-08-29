@@ -51,7 +51,7 @@ public class TerminalExamples {
             });
 
 
-
+//System.out.println("terminalExamples");
 
 
         }
